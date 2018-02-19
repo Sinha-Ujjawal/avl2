@@ -12,9 +12,9 @@
   *Space-Complexity*: **`O(n)`** *where **n** is the no of keys in the tree*
   
   ```python
-  import avl
+  import avl2
   
-  ob = avl.avl() 
+  ob = avl2.avl() 
   # Now u cud add keys and values/data to the tree
   ```
   
